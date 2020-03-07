@@ -1,0 +1,14 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://qwini:1122334455@cluster0-an41g.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecret": "1234554321",
+    "baseUrl": "http://localhost:5000"
+}
+
+
+
+
+
+
+
+
